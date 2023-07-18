@@ -1,2 +1,2 @@
 # LearnGit
-I am kearnign git conflicts.
+I am learnign git conflicts in feature.
