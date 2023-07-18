@@ -1,3 +1,3 @@
 
-I am learnign git conflicts in feature.
+I am learnign git conflicts in main file changed added more text.
 
